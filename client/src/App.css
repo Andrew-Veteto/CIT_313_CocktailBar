@@ -1,0 +1,4 @@
+.viewList{
+    display: flex;
+    flex-wrap: wrap;
+}
